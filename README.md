@@ -15,3 +15,7 @@ Make sure to add the items in shared.lua
 ```
 
 Images are in the folder.. Make sure to add it to ```qb-inventory/html/images```
+
+Dependency - https://github.com/pushkart2/memorygame
+
+Memory game
