@@ -13,3 +13,5 @@ Make sure to add the items in shared.lua
 ["quantum_cpu"] 			 	 	 = {["name"] = "quantum_cpu", 			  			["label"] = "Quantum", 				["weight"] = 1000, 		["type"] = "item", 		["image"] = "quantum_cpu.png", 			["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Sometimes you'd want everything to burn.."},
 
 ```
+
+Images are in the folder.. Make sure to add it to ```qb-inventory/html/images```
