@@ -12,7 +12,7 @@ Config.ShopItems = {
         [1] = {
             name = "standard_cpu",
             price = 1,
-            amount = 500,
+            amount = 1000,
             info = {},
             type = "item",
             slot = 1,
@@ -20,7 +20,7 @@ Config.ShopItems = {
         [2] = {
             name = "e2_cpu",
             price = 1,
-            amount = 500,
+            amount = 1000,
             info = {},
             type = "item",
             slot = 2,
@@ -28,7 +28,7 @@ Config.ShopItems = {
         [3] = {
             name = "quantum_cpu",
             price = 1,
-            amount = 500,
+            amount = 1000,
             info = {},
             type = "item",
             slot = 3,
@@ -54,7 +54,7 @@ Config.MiningLab = {
 
 -- rewards for each rig in crypto-------
 Config.Reward = {
-    ["standard_cpu"] = 20, 
-    ["e2_cpu"] = 50,
-    ["quantum_cpu"] = 100,
+    ["standard_cpu"] = 50, 
+    ["e2_cpu"] = 100,
+    ["quantum_cpu"] = 120,
 }
